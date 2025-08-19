@@ -1,0 +1,12 @@
+# Carpetas de compilación y binarios
+/target/
+/.vs/
+
+# Base de datos local
+files.db
+
+# Archivos de configuración local
+config.json
+
+# Archivos de lock de Rust (opcional, depende si quieres que otros usen la misma versión exacta)
+/Cargo.lock
